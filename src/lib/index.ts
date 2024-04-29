@@ -1,0 +1,1 @@
+export { fetchTeams } from "./data";
